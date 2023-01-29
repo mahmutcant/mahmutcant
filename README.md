@@ -1,6 +1,6 @@
 ### Hi Welcome My Github Profile 👋
-Firat University <br/>
-**Software Engineering**
+Mahmut Can Tuncer <br/>
+**Software Developer**
 <br/><br/>
 ***Social Media***<br/>
 <a href="https://www.linkedin.com/in/mahmut-can-tuncer-0566b9223/"><img align="left" width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="Linkedin"></a>
