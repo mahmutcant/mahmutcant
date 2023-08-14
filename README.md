@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmut Can</h1>
-- 📫 How to reach me  <b>mahcan012@gmail.com</b>
+- 📫 How to reach me  <a href="mailto:mahcan012@gmail.com" style="text-decoration:none"><b>mahcan012@gmail.com</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
